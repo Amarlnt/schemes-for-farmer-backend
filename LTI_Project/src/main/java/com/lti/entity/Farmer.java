@@ -12,7 +12,7 @@ import javax.persistence.Table;
 @Table(name="Farmer")
 public class Farmer {
 
-	
+//surendra
 	@Column(name="farmer_id")
 	@Id
 	@GeneratedValue
